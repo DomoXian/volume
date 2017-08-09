@@ -1,0 +1,65 @@
+ipod, i-pod, i pod
+foozball , foosball
+universe , cosmos
+suclogger , 蔡润强
+一 , 1
+二 , 2
+三 , 3
+四 , 4
+五 , 5
+六 , 6
+七 , 7
+八 , 8
+九 , 9
+十 , 10
+霸道 , 普拉多
+美规 , 美版
+加规 , 加版
+中东 , 中东版
+欧规 , 欧版
+墨西哥版 , 墨版 , 墨规
+寸 , 轮
+捷豹F-Pace , Fpace
+捷豹F-TYPE , ftype
+马自达CX-5 , cx5
+马自达CX-7 , cx7
+马自达CX-9 , cx9
+马自达MX-5 , mx5
+日产GT-R , gtr
+雪铁龙C3-XR , c3xr
+SIERRA西拉 , SIERRA , 西拉
+TERRAIN领地 , TERRAIN , 领地
+YUKON育空 , YUKON , 育空
+奔驰Metris , Metris , 麦特斯
+奔跑者Fortuner , 奔跑者 , Fortuner
+海狮HIACE , 海狮	HIACE
+超霸4Runner , 超霸
+凯雷德ESCALADE , 凯雷德 , ESCALADE
+Ghibli吉博力	Ghibli , 吉博力
+Frontier边缘人 , Frontier , 边缘人
+LANNIA 蓝鸟 , LANNIA , 蓝鸟
+Navara皮卡 , Navara , 皮卡
+Pathfinder探路者 , Pathfinder , 探路者
+TITAN泰坦 , TITAN , 泰坦
+Veloster飞思 , Veloster , 飞思
+电眼 , 雷达
+ABS , 刹车防抱死
+ESP , 电子车身稳定系统
+EBV , 电子刹车力分配系统
+ACC , 自适应巡航
+陡坡缓降 , 陂降辅助
+尾喉 , 尾排 , 排气管
+ASR , 防侧滑系统
+悬架 , 悬挂
+盲区监测 , 并道辅助 , 并线辅助
+HUD , 抬显 , 抬头显示
+氙气 , 疝气
+无 , 免
+揽运 , 览运
+塞纳 , 赛纳
+混动 , 混合动力
+c 200  , c200
+长安福特  , 福特
+别克君威 , 别克 君威
+雪弗莱  , 雪佛兰
+尼桑  , 日产
